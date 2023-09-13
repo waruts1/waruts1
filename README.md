@@ -1,4 +1,4 @@
--👋 Greetings! I'm Waruts, a Full Stack Developer.
+-👋 Greetings! I'm Waruts, a Full Stack Developer. </n>
 -👀 I have proficiency in JavaScript, Java, PHP, and Python frameworks, with a track record of delivering production-grade projects spanning over 5 years.
 -🌱 I hold certifications in Audit and Security from international bodies.
 -💞️ I'm open to collaboration on various projects.
